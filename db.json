@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "contacts": [
+    {
+      "teamName": "MarketingTeam",
+      "id": 1,
+      "emailArray": [
+        "marketingteam@br.in",
+        "marketingteam2@br.in",
+        "marketingteam3@br.in"
+      ],
+      "phoneNumberArray": [
+        "+91 3423456444",
+        "+91 9688863434"
+      ]
+    },
+    {
+      "teamName": "SalesTeam",
+      "id": 2,
+      "emailArray": [
+        "salesteam@br.in",
+        "salseTeam2@br.in"
+      ],
+      "phoneNumberArray": [
+        "+91 3423456444",
+        "+91 9688863434"
+      ]
+    }
+  ],
+  "title": {
+    "title": "Testing Done"
+  }
+}
