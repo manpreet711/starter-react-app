@@ -8,7 +8,7 @@ const Header = () => {
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
             <img
-              // src="https://www.atinks.com/wp-content/uploads/2017/10/A.T-inks-logo-600-DPI-1-e1545645137933.png"
+              src="https://www.atinks.com/wp-content/uploads/2017/10/A.T-inks-logo-600-DPI-1-e1545645137933.png"
               alt=""
               width="55"
               height="50"
@@ -25,7 +25,7 @@ const Header = () => {
           <button className="m-1">Checkout(200)</button>
           <div>
             <img
-              // src="https://i2.cdn.turner.com/cnnnext/dam/assets/140926165711-john-sutter-profile-image-large-169.jpg"
+              src="https://i2.cdn.turner.com/cnnnext/dam/assets/140926165711-john-sutter-profile-image-large-169.jpg"
               alt="Profile image"
               width="55"
               height="50"

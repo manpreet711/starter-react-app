@@ -47,30 +47,11 @@ const SideNavBar = () => {
   ];
 
   return (
-    // <div className="sideNavBar">
-    //   <ul className="sideBarList">
-    //     {sideBarData.map((val, key) => {
-    //       return (
-    //         <li
-    //           key={key}
-    //           className="row"
-    //           onClick={() => {
-    //             WindowRestore.location.pathname = val.link;
-    //           }}
-    //         >
-    //           {" "}
-    //           <div>{val.icon}</div>
-    //           <div>{val.title}</div>
-    //         </li>
-    //       );
-    //     })}
-    //   </ul>
-    // </div>
     <>
       <div className="sidebar">
         <img
           style={{ lineHeight: 4 }}
-          //   src="https://www.atinks.com/wp-content/uploads/2017/10/A.T-inks-logo-600-DPI-1-e1545645137933.png"
+            src="https://www.atinks.com/wp-content/uploads/2017/10/A.T-inks-logo-600-DPI-1-e1545645137933.png"
           alt="Profile image"
           width="44"
           height="45"
